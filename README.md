@@ -1,4 +1,4 @@
-![Cover](https://github.com/nephcode/styxdust/blob/main/.github/images/githubReadmeHeader.jpg)
+![Cover](https://github.com/nephcode/styxdust/blob/main/.github/images/githubReadmeHeader.png)
 
 # STYXDUST
 RELEASE LIB TO VITE REACT 19 RR7 UPGRADE WITH TEST
@@ -21,7 +21,7 @@ RELEASE LIB TO VITE REACT 19 RR7 UPGRADE WITH TEST
 | :------- | -------------------------- |
 | FRONTEND | `SASS` `STYLED COMPONENTS` |
 | BACKEND  | `REMIX`                    |
-| BUNDLE   | `VITE` >> `CREATE APP`     |
+| BUNDLE   | `VITE` |
 
 ## DOCUMENTATION
 
